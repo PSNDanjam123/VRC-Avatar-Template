@@ -72,6 +72,8 @@ crashlytics-build.properties
 
 # VRChat
 /[Aa]ssets/VRCSDK/*
+/[Aa]ssets/VRCSDK.meta
 
 # Dynamic Bone
 /[Aa]ssets/DynamicBone/*
+/[Aa]ssets/DynamicBone.meta
